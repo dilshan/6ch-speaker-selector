@@ -1,6 +1,6 @@
 This project is a DIY six-channel stereo speaker selector based on *[STC15W201](https://www.stcmicro.com/datasheet/STC15W201S_Features.pdf)* MCU. The purpose of this electronic switch is to share a pair of speakers between six stereo audio systems.
 
-To select each speaker channel, we use a couple of 12V DPDT relays. These relays interface to *74HC595* through a *ULN2003*, 3-channel Darlington transistor array IC. 
+To select each speaker channel, we use a couple of 12V DPDT relays. These relays interface to *74HC595* through a *ULN2001D*, 3-channel Darlington transistor array IC. 
 
 The 6-channel speaker selector is an open-source project. This repository has all the schematics, PCB design files, and firmware source codes. 
 
