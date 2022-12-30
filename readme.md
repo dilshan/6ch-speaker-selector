@@ -6,7 +6,7 @@ To select each speaker channel, we use a couple of 12V DPDT relays. These relays
 
 The 6-channel speaker selector is an open-source project. This repository has all the schematics, PCB design files, and firmware source codes. 
 
-The complete [documentation](https://github.com/dilshan/6ch-speaker-selector/wiki) of this project is in the [wiki section](https://github.com/dilshan/6ch-speaker-selector/wiki) of this repository. The PCB Gerber files and compiled binaries are also available in the [release section](https://github.com/dilshan/6ch-speaker-selector/releases) of this repository. The PCB of the 6-channel speaker selector can also order from the [PCBWay website](https://www.pcbway.com/).
+The complete [documentation](https://github.com/dilshan/6ch-speaker-selector/wiki) of this project is in the [wiki section](https://github.com/dilshan/6ch-speaker-selector/wiki) of this repository. The PCB Gerber files and compiled binaries are also available in the [release section](https://github.com/dilshan/6ch-speaker-selector/releases) of this repository. The PCB of the 6-channel speaker selector can also order from the [PCBWay website](https://www.pcbway.com/project/shareproject/6_channel_stereo_speaker_selector_a32e4deb.html).
 
 All the content of this project is distributed under the terms of the following license:
 
