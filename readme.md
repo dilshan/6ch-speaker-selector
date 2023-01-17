@@ -8,7 +8,7 @@ The 6-channel speaker selector is an open-source project. This repository has al
 
 The complete [documentation](https://github.com/dilshan/6ch-speaker-selector/wiki) of this project is in the [wiki section](https://github.com/dilshan/6ch-speaker-selector/wiki) of this repository. The PCB Gerber files and compiled binaries are also available in the [release section](https://github.com/dilshan/6ch-speaker-selector/releases) of this repository. The PCB of the 6-channel speaker selector can also order from the [PCBWay website](https://www.pcbway.com/project/shareproject/6_channel_stereo_speaker_selector_a32e4deb.html).
 
-All the content of this project is distributed under the terms of the following license:
+This is a [certified open hardware project](https://certification.oshwa.org/lk000013.html) and all the content of this project is distributed under the terms of the following license:
 
 - Hardware License: [CERN-OHL-W 2.0](https://ohwr.org/cern_ohl_w_v2.txt)
 - Software License: [MIT](https://github.com/dilshan/6ch-speaker-selector/blob/main/LICENSE)
